@@ -4,17 +4,6 @@
 
 ---
 
-## Python用ファイル
-
-- [self_practice_python_2.ipynb](python用ファイル/self_practice_python_2.ipynb)
-- [self_practice_python_4.ipynb](python用ファイル/self_practice_python_4.ipynb)
-- [self_practice_python_5.ipynb](python用ファイル/self_practice_python_5.ipynb)
-- [self_practice_python_6.ipynb](python用ファイル/self_practice_python_6.ipynb)
-- [self_practice_python_7.ipynb](python用ファイル/self_practice_python_7.ipynb)
-- [self_practice_python_8.ipynb](python用ファイル/self_practice_python_8.ipynb)
-
----
-
 ## 講義資料
 
 - [自主練1_セットアップ.pdf](講義資料/自主練1_セットアップ.pdf)
@@ -27,5 +16,19 @@
 - [自主練8_変数作成.pdf](講義資料/自主練8_変数作成.pdf)
 
 ---
+
+## Python用ファイル
+それぞれリンクからipynbファイルをダウンロードして（リンク先の下矢印をクリック）、google colaboratoryや他の環境で開いて活用してください。
+
+- [self_practice_python_2.ipynb](python用ファイル/self_practice_python_2.ipynb)
+- [self_practice_python_4.ipynb](python用ファイル/self_practice_python_4.ipynb)
+- [self_practice_python_5.ipynb](python用ファイル/self_practice_python_5.ipynb)
+- [self_practice_python_6.ipynb](python用ファイル/self_practice_python_6.ipynb)
+- [self_practice_python_7.ipynb](python用ファイル/self_practice_python_7.ipynb)
+- [self_practice_python_8.ipynb](python用ファイル/self_practice_python_8.ipynb)
+
+---
+
+
 
 各ファイルの内容や使用方法についての詳細は、それぞれのリンクをクリックして参照してください。
