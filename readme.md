@@ -18,7 +18,8 @@
 ---
 
 ## Python用ファイル
-それぞれリンクからipynbファイルをダウンロードして（リンク先の下矢印をクリック）、google colaboratoryや他の環境で開いて活用してください。
+講義資料に対応したjupyter notebook用のファイルです（自主練1、自主練3に対応するものはありません）。  
+それぞれ下記のリンクからipynbファイルをダウンロードして（リンク先の下矢印をクリック）、google colaboratoryや他の環境で開いて活用してください。
 
 - [self_practice_python_2.ipynb](python用ファイル/self_practice_python_2.ipynb)
 - [self_practice_python_4.ipynb](python用ファイル/self_practice_python_4.ipynb)
